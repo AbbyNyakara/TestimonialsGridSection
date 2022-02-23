@@ -7,7 +7,7 @@
 - Mobile View:
 ![image](https://user-images.githubusercontent.com/81410040/155303186-359862b6-0434-4c09-9552-2073b30f585f.png)
 
-### Live-site URL : ![image](https://user-images.githubusercontent.com/81410040/155302869-04d3a364-812c-45f8-a2de-871f20fa3bd3.png)
+### Live-site URL : https://abbynyakara.github.io/TestimonialsGridSection/
 
 ### TOOLS USED :
 - HTML5
